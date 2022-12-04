@@ -1,0 +1,23 @@
+/*#include <bits/stdc++.h>
+using namespace std;
+
+
+vector<vector<int> >arr;
+
+vector<int> dp;
+
+vector<int> KMP(string& s)
+{
+    int n=s
+}
+
+// you can use includes, for example:
+// #include <algorithm>
+
+// you can write to stdout for debugging purposes, e.g.
+// cout << "this is a debug message" << endl;
+
+int solution(string &S) {
+    // write your code in C++14 (g++ 6.2.0)
+}
+*/
