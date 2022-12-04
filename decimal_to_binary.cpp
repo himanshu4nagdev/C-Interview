@@ -10,7 +10,7 @@ using namespace std;
 //step 4-then it is about trying implementing that strategy due to mix and match of your logic in code
 //step 5- then it is about understanding best technology available in market available today and implementing that -> serving that in industry
 
-//
+//caution - below code doesnt take care of bits 
 int main()
 {
     int n=5;
