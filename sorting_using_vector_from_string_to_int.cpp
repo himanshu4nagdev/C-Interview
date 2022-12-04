@@ -8,7 +8,10 @@
 #include <algorithm>
 #include <sstream>
 
-//what is sstream library
+//what is sstream library (stringstream)-https://www.geeksforgeeks.org/stringstream-c-applications/
+
+//interfacing of stringstream and vector-https://stackoverflow.com/questions/455483/going-from-string-to-stringstream-to-vectorint
+
 
 //learning -while entering string in c++ we use getline and while take character we use char
 
@@ -16,7 +19,7 @@
 
 //in coading test we have to take care of taking data and in visual studio code we have to avoid that thing durring debugging phase before writing final code
 
-//input
+//input5
 //5
 //8 6 9 2 1
 
